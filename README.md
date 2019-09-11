@@ -3,7 +3,7 @@
 
 **框架特点：工程化快速，接口统一，接口友好度高，上手快，实验方便**
 
-![image-20190910093424709](/Users/wenyi/Library/Application Support/typora-user-images/image-20190910093424709.png)
+![image-20190910093424709](./image-20190910093424709.png)
 
 
 
