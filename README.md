@@ -73,5 +73,6 @@ items: list of input item for predict,user recent item sequence
 k: int predict top k result
 
 return: list of predict result
+
 ......（后续会更新API）
 有兴趣一起完善框架的小伙伴欢迎联系我哟！1244058349@qq.com
